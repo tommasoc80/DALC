@@ -1,5 +1,17 @@
 # DALC - Dutch Abusive Language Corpus 
 
+This repository contains:
+
+- the Dutch Abusive Language Corpus v1.0 (DALC v1.0) (folder "data")
+- the data statement related to DALC v1.0(see below);
+- the baseline models that have been developed to identify abusive language (both binary and ternary classification)
+- a copy of the [GrofLex lexicon](https://github.com/hylkevdveen/GrofLex)
+
+This work was part of the bachelor thesis in Information Science of the University of Groningen for the academic year 2019/2020. 
+
+# Data Statement for DALC
+
+
 
 # Data Statement for DALC
 
@@ -26,85 +38,51 @@ The corpus is composed by tweets in Ducth extracted using different strategies a
 
 Dictionaries used: [HADES](https://github.com/clips/hades); [HurtLex v1.2](https://github.com/valeriobasile/hurtlex)
 
-
-12-11-2015 07-03-2017 12-11-2018
-22-11-2015 17-03-2017 22-11-2018
-November 2015 Paris attacks 2017 Dutch general election Intocht Sinterklaas 2018
-
-> *Explanation.* Which texts were included and what were the goals in selecting texts, both in the original collection and in any further sub-selection? This can be especially important in datasets too large to thoroughly inspect by hand. An explicit statement of the curation rationale can help dataset users make inferences about what other kinds of texts systems trained with them could conceivably generalize to.
+- Time periods: 1) 12-11-2015/22-11-2015 (November 2015 Paris attacks); 2) 07-03-2017/17-03-2017 (2017 Dutch general election); 3) 12-11-2018/22-11-2018 (Intocht Sinterklaas 2018); 4) 2020-08 (Black Lives Matter movement); 5) 2015-04; 6) 2018-06; 7) 2019-05; 2019-09
 
 ## B. LANGUAGE VARIETY/VARIETIES
 
-> *Explanation.* Languages differ from each other in structural ways that can interact with NLP algorithms. Within a language, regional or social dialects can also show great variation (Chambers and Trudgill, 1998). The language and language variety should be described with a language tag from BCP-47 identifying the language variety (e.g., en-US or yue-Hant-HK), and a prose description of the language variety, glossing the BCP-47 tag and also providing further information (e.g., "English as spoken in Palo Alto, California", or "Cantonese written with traditional characters by speakers in Hong Kong who are bilingual in Mandarin").
-
-* BCP-47 language tag: 
-* Language variety description: 
+* BCP-47 language tag: nl
+* Language variety description: Netherlands and Belgium (Vlaams)
 
 ## C. SPEAKER DEMOGRAPHIC
 
-> *Explanation.* Sociolinguistics has found that variation (in pronunciation, prosody, word choice, and grammar) correlates with speaker demographic characteristics (Labov, 1966), as speakers use linguistic variation to construct and project identities (Eckert and Rickford, 2001). Transfer from native languages (L1) can affect the language produced by non-native (L2) speakers (Ellis, 1994, Ch. 8). A further important type of variation is disordered speech (e.g., dysarthria). Specifications include: 
-
-* Description: 
-* Age: 
-* Gender: 
-* Race/ethnicity (according to locally appropriate categories): 
-* First language(s): 
-* Socioeconomic status: 
-* Number of different speakers represented: 
-* Presence of disordered speech: 
+N/A
  
 ## D. ANNOTATOR DEMOGRAPHIC
 
-> *Explanation.* What are the demographic characteristics of the annotators and annotation guideline developers? Their own “social address” influences their experience with language and thus their perception of what they are annotating. Specifications include:
+Annotator #1: Age: 23; Gender: female; Race/ethnicity: caucasian; Native language: Dutch; Socioeconomic status:n/a Training in linguistics/other relevant discipline: BA in Information science
 
-* Description: 
-* Age: 
-* Gender: 
-* Race/ethnicity (according to locally appropriate categories): 
-* First language(s): 
-* Training in linguistics/other relevant discipline: 
+Annotator #2: Age: 23; Gender: male; Race/ethnicity: caucasian; Native language: Dutch; Socioeconomic status:n/a Training in linguistics/other relevant discipline: BA in Information science
 
+Annotator #3: Age: 23; Gender: male; Race/ethnicity: caucasian; Native language: Dutch; Socioeconomic status:n/a Training in linguistics/other relevant discipline: BA in Information science
+
+Annotator #4: Age: 23; Gender: male; Race/ethnicity: caucasian; Native language: Dutch; Socioeconomic status:n/a Training in linguistics/other relevant discipline: BA in Information science
+
+Annotator #5: Age: 23; Gender: male; Race/ethnicity: caucasian; Native language: Dutch; Socioeconomic status:n/a Training in linguistics/other relevant discipline: BA in Information science
+
+Annotator #6: Age: 25; Gender: male; Race/ethnicity: caucasian; Native language: Dutch; Socioeconomic status:n/a Training in linguistics/other relevant discipline: MA in Information science
 
 ## E. SPEECH SITUATION
 
-> *Explanation.* Characteristics of the speech situation can affect linguistic structure and patterns at many levels. The intended audience of a linguistic performance can also affect linguistic choices on the part of speakers. The time and place provide broader context for understanding how the texts collected relate to their historical moment and should also be made evident in the data statement. Specifications include:
-
-* Description: 
-* Time: 
-* Place: 
-* Modality (spoken/signed, written): 
-* Scripted/edited vs. spontaneous: 
-* Synchronous vs. asynchronous interaction: 
-* Intended audience: 
+N/A
 
 ## F. TEXT CHARACTERISTICS
 
-> *Explanation.* Both genre and topic influence the vocabulary and structural characteristics of texts (Biber, 1995), and should be specified.
+Twitter messages; short messages of max. 280 characters; they may contain multimedia materials, external URL links, and mentions of other others. Time period of collection illustrated in the Curation Rational section.
 
 ## G. RECORDING QUALITY
 
-> *Explanation.* For data that include audiovisual recordings, indicate the quality of the recording equipment and any aspects of the recording situation that could impact recording quality.
+N/A
 
-## H. OTHER
+## About data statement document
 
-> *Explanation.* There may be other information of relevance as well. Please use this space to develop any further categories that are relevant for your dataset. 
+A [data statement](https://www.aclweb.org/anthology/Q18-1041/) is a characterization of a dataset that provides context to allow developers and users to better understand how experimental results might generalize, how software might be appropriately deployed, and what biases might be reflected in systems built on the software.
 
-## I. PROVENANCE APPENDIX
-
-> *Explanation.* For datasets built out of existing datasets, the data statements for the source datasets should be included as an appendix.
-
-
-## About this document
-
-A data statement is a characterization of a dataset that provides context to allow developers and users to better understand how experimental results might generalize, how software might be appropriately deployed, and what biases might be reflected in systems built on the software.
-
-Data Statements are from the University of Washington. Contact: [datastatements@uw.edu](mailto:datastatements@uw.edu). This document template is licensed as [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
-
-This version of the markdown Data Statement is from June 4th 2020. The Data Statement template is based on worksheets distributed at the [2020 LREC workshop on Data Statements](https://sites.google.com/uw.edu/data-statements-for-nlp/), by Emily M. Bender, Batya Friedman, and Angelina McMillan-Major. Adapted to community Markdown template by Leon Dercyznski.
+Data Statements are from the University of Washington. Contact: [datastatements@uw.edu](mailto:datastatements@uw.edu). We have used the markdown Data Statement is from June 4th 2020. The Data Statement template is based on worksheets distributed at the [2020 LREC workshop on Data Statements](https://sites.google.com/uw.edu/data-statements-for-nlp/), by Emily M. Bender, Batya Friedman, and Angelina McMillan-Major. Adapted to community Markdown template by Leon Dercyznski.
 
 
 
-Data Statements paper, here: https://www.aclweb.org/anthology/Q18-1041/ .
 
 
 
