@@ -9,9 +9,6 @@ This repository contains:
 
 This work was part of the bachelor thesis in Information Science of the University of Groningen for the academic year 2019/2020. 
 
-# Data Statement for DALC
-
-
 
 # Data Statement for DALC
 
