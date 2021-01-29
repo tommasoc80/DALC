@@ -3,7 +3,7 @@
 This repository contains:
 
 - the Dutch Abusive Language Corpus v1.0 (DALC v1.0) (folder "data")
-- the data statement related to DALC v1.0(see below);
+- the data statement related to DALC v1.0 (see below);
 - the baseline models that have been developed to identify abusive language (both binary and ternary classification)
 - a copy of the [GrofLex lexicon](https://github.com/hylkevdveen/GrofLex)
 
