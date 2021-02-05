@@ -16,7 +16,7 @@ Data set name: Ducth Abusive Language Corpus v1.0
 
 Citation (if available): n/a
  
-Data set developer(s): Arjan Schelhaas, Marieke Weultjes, Folkert Leistra, Hylke van der Veen, Gerben Timmerman 
+Data set developer(s): Marieke Weultjes, Arjan Schelhaas, Folkert Leistra, Hylke van der Veen, Menno Robben, Gerben Timmerman 
 
 Data statement author(s): Tommaso Caselli
 
