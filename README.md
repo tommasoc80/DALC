@@ -35,7 +35,7 @@ The corpus is composed by tweets in Dutch extracted using different strategies a
 
 Dictionaries used: [HADES](https://github.com/clips/hades); [HurtLex v1.2](https://github.com/valeriobasile/hurtlex)
 
-- Time periods: 1) 12-11-2015/22-11-2015 (November 2015 Paris attacks); 2) 07-03-2017/17-03-2017 (2017 Dutch general election); 3) 12-11-2018/22-11-2018 (Intocht Sinterklaas 2018); 4) 2020-08 (Black Lives Matter movement); 5) 2015-04; 6) 2018-06; 7) 2019-05; 2019-09
+- Time periods: 1) 12-11-2015/22-11-2015 (November 2015 Paris attacks); 2) 07-03-2017/17-03-2017 (2017 Dutch general election); 3) 12-11-2018/22-11-2018 (Intocht Sinterklaas 2018); 4) 2020-08 (Black Lives Matter movement); 5) 2017-04; 6) 2018-06; 7) 2019-05; 2019-09
 
 ## B. LANGUAGE VARIETY/VARIETIES
 
