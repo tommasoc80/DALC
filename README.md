@@ -25,7 +25,7 @@ Others who contributed to this document:
 
 ## A. CURATION RATIONALE 
 
-The corpus is composed by tweets in Ducth extracted using different strategies and covering different time windows. 
+The corpus is composed by tweets in Dutch extracted using different strategies and covering different time windows. 
 
 - Keywords: we have used a cross-platform approach to identify relevant keywords and reduce bias that may be introduced in manual selection of the data. We first identified a time window in Reddit, extracted all posts that received a controversial label. We then identified keywords (unigram) and retained the top 50 keywords per time window. We then used the keywords to extract tweets in corresponding periods. For each time period, we selected a sample 5,000 messages using two dictionaries containing know profanities in Dutch. An additional 5,000 messages are randomly selected. The messages are then re-shuffled and annotated.
 
