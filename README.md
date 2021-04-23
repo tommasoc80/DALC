@@ -66,7 +66,7 @@ N/A
 
 ## F. TEXT CHARACTERISTICS
 
-Twitter messages; short messages of max. 280 characters; they may contain multimedia materials, external URL links, and mentions of other others. Time period of collection illustrated in the Curation Rational section.
+Twitter messages; short messages of max. 280 characters; they may contain multimedia materials, external URL links, and mentions of other users. Time period of collection illustrated in the Curation Rational section.
 
 ## G. RECORDING QUALITY
 
