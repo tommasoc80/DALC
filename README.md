@@ -9,16 +9,30 @@ This repository contains:
 
 This work was part of the bachelor thesis in Information Science of the University of Groningen for the academic year 2019/2020. 
 
-The folder /data contains only the tweet Ids of the messages composing DALC. Messages acan be retrieved using [Hydrator](https://github.com/DocNow/hydrator). However, since messages can alos be deleted by their authors, we make available the the full text (inclusing additional metadata information) via this [link] (https://forms.gle/RunFWuBjAHjwabe26). Please carefully check the extensions to the licence agreement that applies.
-
-DALC is distributed with a 
+The folder /data/ contains only the tweet Ids of the messages composing DALC. Messages acan be retrieved using [Hydrator](https://github.com/DocNow/hydrator). However, since messages can alos be deleted by their authors, we make available a different version of the corpus, DALC full text, via this [link] (https://forms.gle/RunFWuBjAHjwabe26). DALC full text allows you to access the full text message and additional metadata. DALC full text is distributed with a CC BY-NC 4.0 licence. Please carefully check the extensions to the licence agreement that applies.
 
 
 # Data Statement for DALC
 
 Data set name: Ducth Abusive Language Corpus v1.0
 
-Citation (if available): n/a
+Citation (if available):
+
+```
+@inproceedings{caselli-etal-2021,
+    title = "DALC: the Dutch Abusive Language Corpus",
+    author = "Caselli, Tommaso and Schelhaas, Arjan and Weultjes, Marieke and Leistra, Folkert and van der Veen, Hylke and Timmerman, Gerben and Nissim, Malvina ",
+    booktitle = "Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH)",
+    month = aug,
+    year = "2021",
+    address = "online",
+    publisher = "Association for Computational Linguistics",
+    url = "",
+    doi = "",
+    pages = "",
+}
+```
+
  
 Data set developer(s): Marieke Weultjes, Arjan Schelhaas, Folkert Leistra, Hylke van der Veen, Menno Robben, Gerben Timmerman 
 
