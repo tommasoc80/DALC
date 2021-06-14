@@ -2,12 +2,16 @@
 
 This repository contains:
 
-- the Dutch Abusive Language Corpus v1.0 (DALC v1.0) (folder "data")
+- the Dutch Abusive Language Corpus v1.0 (DALC v1.0) (folder /data)
 - the data statement related to DALC v1.0 (see below);
 - the baseline models that have been developed to identify abusive language (both binary and ternary classification)
 - a copy of the [GrofLex lexicon](https://github.com/hylkevdveen/GrofLex)
 
 This work was part of the bachelor thesis in Information Science of the University of Groningen for the academic year 2019/2020. 
+
+The folder /data contains only the tweet Ids of the messages composing DALC. Messages acan be retrieved using [Hydrator](https://github.com/DocNow/hydrator). However, since messages can alos be deleted by their authors, we make available the the full text (inclusing additional metadata information) via this [link] (https://forms.gle/RunFWuBjAHjwabe26). Please carefully check the extensions to the licence agreement that applies.
+
+DALC is distributed with a 
 
 
 # Data Statement for DALC
