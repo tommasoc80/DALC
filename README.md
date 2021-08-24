@@ -9,7 +9,7 @@ This repository contains:
 
 This work was part of the bachelor thesis in Information Science of the University of Groningen for the academic year 2019/2020. 
 
-The folder /data/ contains only the tweet Ids of the messages composing DALC. Messages acan be retrieved using [Hydrator](https://github.com/DocNow/hydrator). However, since messages can alos be deleted by their authors, we make available a different version of the corpus, DALC full text, via this [link](https://forms.gle/RunFWuBjAHjwabe26). DALC full text allows you to access the full text message. DALC full text is distributed with a CC BY-NC 4.0 licence. Please carefully check the extensions to the licence agreement that applies.
+The folder /data/ contains only the tweet Ids of the messages composing DALC. Messages acan be retrieved using [Hydrator](https://github.com/DocNow/hydrator). However, since messages can be deleted by their authors, we make available a different version of the corpus, DALC full text, via this [link](https://forms.gle/RunFWuBjAHjwabe26). DALC full text allows you to access the full text message. DALC full text is distributed with a CC BY-NC 4.0 licence. Please carefully check the extensions to the licence agreement that applies.
 
 
 # Data Statement for DALC
