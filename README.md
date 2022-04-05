@@ -17,7 +17,7 @@ The folders /v1.0/data/ and /v2.0/data contain only the tweet Ids of the message
 - DALC full text v1.0 is available via this [link](https://forms.gle/RunFWuBjAHjwabe26)
 - DALC full text v2.0 is available via this [link](https://forms.gle/NJD3E7CpsPSiCrMY8)
 
-DALC full text allows you to access the full text message. DALC full text is distributed with a CC BY-NC 4.0 licence. Please carefully check the extensions to the licence agreement that applies.
+DALC full text allows you to access the full text message. DALC full text is distributed with a dedicated licence. Please carefully check the extensions to the licence agreement that applies.
 
 
 # Data Statement for DALC v1.0
