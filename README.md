@@ -12,12 +12,15 @@ This repository contains:
 
 This work was part of the bachelor thesis in Information Science of the University of Groningen for the academic years 2019/2020 and 2020/2021. 
 
-The folders /v1.0/data/ and /v2.0/data contain only the tweet Ids of the messages composing DALC. Messages can be retrieved using [Hydrator](https://github.com/DocNow/hydrator). However, since messages can be deleted by their authors, we make available a different version of the corpus, DALC full text:
+The folders /v1.0/data/ and /v2.0/data contain only the tweet Ids of the messages composing DALC. 
+<!-- a normal html comment -->
+Messages can be retrieved using [Hydrator](https://github.com/DocNow/hydrator). However, since messages can be deleted by their authors, we make available a different version of the corpus, DALC full text:
 
 - DALC full text v1.0 is available via this [link](https://forms.gle/RunFWuBjAHjwabe26)
 - DALC full text v2.0 is available via this [link](https://forms.gle/NJD3E7CpsPSiCrMY8)
 
 DALC full text allows you to access the full text message. DALC full text is distributed with a dedicated licence. Please carefully check the extensions to the licence agreement that applies.
+<!-- a normal html comment -->
 
 
 # Data Statement for DALC v1.0
