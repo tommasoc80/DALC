@@ -114,6 +114,22 @@ N/A
 
 Data set name: Ducth Abusive Language Corpus v2.0
 
+Citation (if available):
+
+```
+@inproceedings{ruitenbeek-etal-2022,
+    title = "“Zo Grof !”: A Comprehensive Corpus for Offensive and Abusive Language in Dutch",
+    author = "Ruitenbeek, Ward and Zwart, Victor and van der Noord, Robin and Gnezdilov, Zhenja and Caselli, Tommaso ",
+    booktitle = "Proceedings of the 6th Workshop on Online Abuse and Harms (WOAH)",
+    month = jul,
+    year = "2022",
+    address = "Seattle, WA, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "",
+    doi = "",
+    pages = "",
+}
+```
  
 Data set developer(s): Waard Ruitenbeek, Victor Zwart, Robin van der Noord, Zhenja Gnezdilov
 
