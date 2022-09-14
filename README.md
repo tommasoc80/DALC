@@ -179,6 +179,14 @@ Twitter messages; short messages of max. 280 characters; they may contain multim
 
 N/A
 
+# Data Statement for DDTS
+
+Data set name: Dutch Dynamic Test Set
+
+ 
+Data set developer(s): Dionysios Theodoridis
+
+Data statement author(s): Dionysios Theodoridis
 
 ## About data statement document
 
