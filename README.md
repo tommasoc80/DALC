@@ -209,6 +209,7 @@ Twitter messages; short messages of max. 280 characters; they may contain multim
 
 Citation (if available):
 
+```
 @article{Theodoridis_Caselli_2022, 
 title={All That Glitters is Not Gold: Transfer-learning for Offensive Language Detection in Dutch}, 
 volume={12}, 
@@ -218,8 +219,7 @@ journal={Computational Linguistics in the Netherlands Journal},
 author={Theodoridis, Dion and Caselli, Tommaso}, 
 year={2022}, 
 month={Dec.}, 
-pages={141–164} }```
-
+pages={141–164} }
 ```
 
 
