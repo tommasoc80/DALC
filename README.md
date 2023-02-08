@@ -182,11 +182,46 @@ N/A
 # Data Statement for DDTS
 
 Data set name: Dutch Dynamic Test Set
-
  
-Data set developer(s): Dionysios Theodoridis
+Data set developer(s): Dionysios Theodoridis; Tommaso Caselli
 
-Data statement author(s): Dionysios Theodoridis
+## A. CURATION RATIONALE 
+
+The corpus is composed by tweets in Dutch extracted from a list of politician twitter accounts using information from the Dutch *Tweede Kamer* (the Dutch House of Representatives) in September 2021. At that time, the *Tweede Kamer* consisted of 148 politicians from 18 different parties, with 4 parties having more than 10 seats. The list with names and Twitter account is avialble in this repository [here](https://github.com/tommasoc80/DALC/blob/master/politicians_tweedekamer.csv).
+
+- Time periods: March 2021.
+
+## B. LANGUAGE VARIETY/VARIETIES
+
+* BCP-47 language tag: nl
+* Language variety description: Netherlands and Belgium (Vlaams)
+
+## C. SPEAKER DEMOGRAPHIC
+
+
+## D. ANNOTATOR DEMOGRAPHIC
+
+Annotator #1: Age: 25; Gender: male; Race/ethnicity: caucasian; Native language: Dutch; Socioeconomic status:n/a Training in linguistics/other relevant discipline: BA in Information science
+
+## F. TEXT CHARACTERISTICS
+
+Twitter messages; short messages of max. 280 characters; they may contain multimedia materials, external URL links, and mentions of other users. Time period of collection illustrated in the Curation Rational section.
+
+Citation (if available):
+
+@article{Theodoridis_Caselli_2022, 
+title={All That Glitters is Not Gold: Transfer-learning for Offensive Language Detection in Dutch}, 
+volume={12}, 
+url={https://www.clinjournal.org/clinj/article/view/152}, 
+abstractNote={&amp;lt;p&amp;gt;Creating datasets for language phenomena to fill gaps in the language resource panorama of specific natural languages is not a trivial task. In this work, we explore the application of transferlearning as strategy to boost both the creation of language-specific datasets and systems. We use offensive language in Dutch tweets directed at Dutch politicians as a case study. In particular, we trained a multilingual model using the Political Speech Project (Bröckling et al. 2018) dataset to automatically annotate tweets in Dutch. The automatically annotated tweets have been used to further train a monolingual language model in Dutch (BERTje) adopting different strategies and combination of manually curated data. Our results show that: (i) transfer learning is an effective strategy to boost the creation of new datasets for specific language phenomena by reducing the annotation efforts; (ii) using a monolingual language model fine-tuned with automatically annotated data (i.e., silver data) is a competitive baseline against the zero-shot transfer of a multilingual model; and finally, (iii) less surprisingly, the addition of automatically annotated data to manually curated ones is a source of errors for the systems, degrading their performances.}, 
+journal={Computational Linguistics in the Netherlands Journal}, 
+author={Theodoridis, Dion and Caselli, Tommaso}, 
+year={2022}, 
+month={Dec.}, 
+pages={141–164} }```
+
+```
+
 
 ## About data statement document
 
