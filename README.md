@@ -12,11 +12,9 @@ This repository contains:
 
 This work was part of the bachelor thesis in Information Science of the University of Groningen for the academic years 2019/2020 and 2020/2021. 
 
-The folders /v1.0/data/ and /v2.0/data contain only the tweet Ids of the messages composing DALC. 
-Messages can be retrieved using [Hydrator](https://github.com/DocNow/hydrator). 
+The folders /v1.0/data/ and /v2.0/data contain only an ID and the labels. We make available a full text version of the corpus, DALC full text at the following link https://doi.org/10.34894/HOINL3 via DataverseNL. Access to the full text version is subject to a Data Sharing Agreement.
 
-<!--- We also make available a different version of the corpus, DALC full text:
-
+<!---
 - DALC full text v1.0 is available via this [link](https://forms.gle/RunFWuBjAHjwabe26)
 - DALC full text v2.0 is available via this [link](https://forms.gle/NJD3E7CpsPSiCrMY8)
 
