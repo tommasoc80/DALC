@@ -179,7 +179,7 @@ N/A
 
 # Data Statement for DDTS
 
-Data set name: Dutch Dynamic Test Set
+Data set name: Dutch Dynamic Test Set; Offend the Politicians Benchmark (OP-NL)
  
 Data set developer(s): Dionysios Theodoridis; Tommaso Caselli
 
