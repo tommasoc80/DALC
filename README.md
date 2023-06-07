@@ -8,11 +8,14 @@ This repository contains:
 - the code of the baseline models that have been developed for DALC v1.0 (folder v1.0/models)
 - the code of the baseline models that have been developed for DALC v2.0 (folder v2.0/models)
 - a copy of the [GrofLex lexicon](https://github.com/hylkevdveen/GrofLex)
+- a copy of HateCheck_NL, a functional benchmark for hate speech based on HateCheck (folder /hatecheck-nl) 
+- fine tune models with [BERTje]() for abusive and offensive language detection (folder /models_fine_tuned)
 
 
 This work was part of the bachelor thesis in Information Science of the University of Groningen for the academic years 2019/2020 and 2020/2021. 
 
 The folders /v1.0/data/ and /v2.0/data contain only an ID and the labels. We make available a full text version of the corpus, DALC full text at the following link https://doi.org/10.34894/HOINL3 via DataverseNL. Access to the full text version is subject to a Data Sharing Agreement.
+
 
 <!---
 - DALC full text v1.0 is available via this [link](https://forms.gle/RunFWuBjAHjwabe26)
