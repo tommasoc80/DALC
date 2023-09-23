@@ -1,5 +1,9 @@
 # DALC - Dutch Abusive Language Corpus 
 
+[![DOI](https://zenodo.org/badge/334116199.svg)](https://zenodo.org/badge/latestdoi/334116199)
+
+
+
 This repository contains:
 
 - the Dutch Abusive Language Corpus v1.0 (DALC v1.0) (folder /v1.0)
